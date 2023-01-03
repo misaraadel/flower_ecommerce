@@ -123,4 +123,19 @@
       }
     }
   }
+
+  .shopping-cart .cart-box {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+
+    .image-content, .contain {
+      width: 100%;
+    }
+  }
+
+  .general-section {
+    padding-top: 135px !important;
+  }
 }

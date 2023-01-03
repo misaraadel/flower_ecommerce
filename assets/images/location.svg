@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.624" height="100.32" viewBox="0 0 75.624 100.32">
+  <defs>
+    <filter id="Icon_material-location-on" x="0" y="0" width="75.624" height="100.32" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="location" transform="translate(-1164.188 -202.84)">
+    <g transform="matrix(1, 0, 0, 1, 1164.19, 202.84)" filter="url(#Icon_material-location-on)">
+      <path id="Icon_material-location-on-2" data-name="Icon material-location-on" d="M36.312,3A28.791,28.791,0,0,0,7.5,31.812C7.5,53.421,36.312,85.32,36.312,85.32s28.812-31.9,28.812-53.508A28.791,28.791,0,0,0,36.312,3Zm0,39.1A10.29,10.29,0,1,1,46.6,31.812,10.294,10.294,0,0,1,36.312,42.1Z" transform="translate(1.5 3)" fill="#765081"/>
+    </g>
+    <g id="Group_91" data-name="Group 91" transform="translate(144.723 -432.328) rotate(14)">
+      <path id="Path_10" data-name="Path 10" d="M18.327,25.745,0,0" transform="translate(1191.143 397.069)" fill="none" stroke="#fdecef" stroke-width="5"/>
+      <path id="Icon_awesome-star" data-name="Icon awesome-star" d="M14.518,1.054,10.884,9.5l-9.258.758c-1.66.135-2.2,2.22-.909,3.526L7.9,21.057l-1,9.494A2.328,2.328,0,0,0,10,32.981l8.078-3.956,8.641,5.114a1.841,1.841,0,0,0,2.83-2.019l-2.195-9.716L33.7,16.074c1.14-1.137.336-3.316-1.356-3.683l-9.432-2.054L18.19,1.308c-.845-1.61-3.015-1.78-3.671-.254Z" transform="matrix(0.819, -0.574, 0.574, 0.819, 1162.112, 388.13)" fill="#fdecef"/>
+    </g>
+  </g>
+</svg>
