@@ -2438,6 +2438,20 @@ footer .content .copyrigts .socail li a:hover img {
      object-fit: cover;
 }
 
+.step-image {
+  width: 100%;
+  height: 150px;
+  margin-bottom: 20px;
+}
+.step-image img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+  -o-object-position: center;
+     object-position: center;
+}
+
 @media (max-width: 999px) {
   .order-mobile-0 {
     order: 0;
@@ -2535,5 +2549,8 @@ footer .content .copyrigts .socail li a:hover img {
   }
   .general-section {
     padding-top: 135px !important;
+  }
+  .step-image {
+    height: 80px;
   }
 }/*# sourceMappingURL=style.css.map */
